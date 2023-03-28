@@ -1,0 +1,16 @@
+
+html{
+    overflow-x: hidden;
+}
+.App {
+    text-align: center;
+  }
+
+.btn{
+    margin-right: 5px;
+
+}
+
+.divbtn{
+    float: left;
+}
